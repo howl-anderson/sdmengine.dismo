@@ -1,0 +1,19 @@
+Package: sdmengine.dismo
+Type: Package
+Title: Dismo version implement of SDMengine
+Version: 0.1
+Date: 2014-11-17
+Depends:
+    yaml,
+    DBI,
+    dismo,
+    parallel,
+    randomForest,
+    kernlab,
+    rJava,
+    sdmengine.common
+Author: Xiaoquan Kong
+Maintainer: Xiaoquan Kong <u1mail2me@gmail.com>
+Description: Dismo <http://cran.r-project.org/web/packages/dismo/> version
+    implement of SDMengine
+License: AGPL

@@ -1,0 +1,13 @@
+engine: dismo
+species_name: true
+run_times: 10
+backgroud_point:
+presence_point:
+predict: true
+environment_layer: true
+algorithms:
+- bioclim
+- glml
+- rf
+- maxent
+- svm
